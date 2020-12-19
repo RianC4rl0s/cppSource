@@ -1,0 +1,10 @@
+Pizzaria Mamute
+---------------
+massa 20
+queijo 5
+Massa 10
+frango 5
+molho 40
+Queijo 30
+FRANGO 10
+presunto 18

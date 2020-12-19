@@ -1,0 +1,3 @@
+﻿  func.cpp
+C:\Users\rianc\source\repos\TrabalhoPratico3\TrabalhoPratico3\func.cpp(341,8): warning C4101: 'testeQuant': variável local não referenciada
+  TrabalhoPratico3.vcxproj -> C:\Users\rianc\source\repos\TrabalhoPratico3\Debug\TrabalhoPratico3.exe

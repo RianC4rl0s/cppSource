@@ -1,0 +1,12 @@
+﻿  Principal.cpp
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(54,76): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(54,60): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(54,44): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(54,28): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(56,76): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(56,60): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(56,44): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(56,28): warning C4244: 'argumento': conversão de 'unsigned short' para 'unsigned char', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(107,28): warning C4244: 'inicializando': conversão de 'unsigned __int64' para 'unsigned int', possível perda de dados
+C:\Users\rianc\source\repos\TrabalhoPratico1\TrabalhoPratico1\Principal.cpp(108,28): warning C4244: 'inicializando': conversão de 'unsigned __int64' para 'unsigned int', possível perda de dados
+  TrabalhoPratico1.vcxproj -> C:\Users\rianc\source\repos\TrabalhoPratico1\Debug\TrabalhoPratico1.exe

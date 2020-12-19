@@ -1,0 +1,7 @@
+﻿  cor.cpp
+  particula.cpp
+  vetor.cpp
+  Gerando Código...
+C:\Users\rianc\source\repos\TP2\TP2\vetor.cpp(79): warning C4715: 'dlc': nem todos os caminhos de controle retornam um valor
+C:\Users\rianc\source\repos\TP2\TP2\vetor.cpp(160): warning C4715: 'inver': nem todos os caminhos de controle retornam um valor
+  TP2.vcxproj -> C:\Users\rianc\source\repos\TP2\Debug\TP2.exe
